@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br><br>🔭 *I'm currently working on* Building my foundation in *Full-Stack Development* by mastering *HTML5 and CSS3, and creating responsive web layouts.<br><br>🌱 **I'm currently learning* *JavaScript (ES6+)* and *Python basics, with plans to dive into **Angular* and *Django* for professional backend development.<br><br>💬 *Ask me about* Static web design, CSS layouts, and my journey as a beginner developer.<br><br>⚡ *Fun fact* I love the "Aha!" moment when a complex piece of code finally works after debugging! 🚀
 
 
